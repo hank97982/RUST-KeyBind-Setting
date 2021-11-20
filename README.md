@@ -1,4 +1,4 @@
-# RUST-KeyBind-Setting
+# RUST-KeyBinds-Setting
 
 +input.sensitivity .5;input.sensitivity .5 
 
